@@ -1,4 +1,4 @@
-# FastAPI-Projects
+# FastAPI
 
 A collection of **FastAPI** projects showcasing a variety of real-world API use cases and design patterns. This repository demonstrates how to build **modern, high-performance APIs** using FastAPI, with examples that integrate authentication, databases, background tasks, and real-time features.
 
